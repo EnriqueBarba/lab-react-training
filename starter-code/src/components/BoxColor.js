@@ -1,7 +1,6 @@
 import React from 'react'
 
 const BoxColor = (props) => {
-    console.log(props)
     const styles = {
         "background-color": `rgb(${props.r},${props.g},${props.b})`
     }

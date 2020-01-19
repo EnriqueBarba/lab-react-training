@@ -26,3 +26,26 @@ code {
   margin-bottom: 1.5rem;
   padding: 1rem;
 }
+
+.CreditCard {
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.CreditCard img{
+  width: 50px;
+  height: 25px;
+  float:right;
+}
+
+.Rating {
+  display: flex;
+  justify-content: center;
+  color: black;
+  min-height: 50px;
+}
+
+.Rating i {
+  width: 100px;
+  height: 100px;
+}
